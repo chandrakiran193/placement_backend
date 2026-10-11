@@ -1,0 +1,12 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+uploads/
+.git
+.gitignore
+.idea/
+.vscode/
+*.iml
+*.log
+.env
